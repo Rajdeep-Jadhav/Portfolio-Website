@@ -17,3 +17,5 @@ HTML: Used for structuring the content of the website.
 CSS: Used for styling and layout.
 JavaScript: Used for adding interactivity and dynamic features.
 Bootstrap: Utilized for responsive design and grid layout.
+
+![image](https://github.com/user-attachments/assets/05d29817-2612-401e-b7d6-ac21ef065d79)
